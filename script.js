@@ -17,9 +17,9 @@ let data = [
     },
     {
         'id': 'a3',
-        'title': 'Closer',
-        'name': 'Closer.mp4',
-        'duration': '3:47',
+        'title': 'all night instrumental',
+        'name': 'all night instrumental.mp4',
+        'duration': '3:50',
     },
     {
         'id': 'a4',
@@ -35,15 +35,15 @@ let data = [
     },
     {
         'id': 'a6',
-        'title': 'let me love you',
-        'name': 'let me love you.mp4',
-        'duration': '3:25',
+        'title': 'happier instrumental',
+        'name': 'happier instrumental.mp4',
+        'duration': '3:34',
     },
     {
         'id': 'a7',
-        'title': 'Oru Adaar Love',
-        'name': 'Oru Adaar Love.mp4',
-        'duration': '3:16',
+        'title': 'amore instrumental',
+        'name': 'amore instrumental.mp4',
+        'duration': '3:32',
     },
     {
         'id': 'a8',
@@ -53,9 +53,10 @@ let data = [
     },
     {
         'id': 'a9',
-        'title': 'Tera Ghata',
-        'name': 'Tera Ghata.mp4',
-        'duration': '4:25',
+        'title': 'all night instrumental',
+        'name': 'all night instrumental.mp4',
+        'duration': '3:50',
+
     },
 
 ];
